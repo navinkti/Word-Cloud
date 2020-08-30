@@ -3,9 +3,10 @@ Word Cloud is a data visualization technique used for representing text data in 
 A simple word cloud made using python.
 
 Steps to get desire Output:-
-1.Open Jupyter Notebook.
-2.Copy the code in different cells.
-3.Run 1st set of code. 
-4.Click on upload option(below 2nd set ) after running first set of code to upload text file.
-5.Upload your text file
-6.Then run last set of code to get desired output.
+1.Download pythoncode.rar file and extract it .A text file(word cloud) contains code.
+2.Open Jupyter Notebook.
+3.Copy the code in different cells.
+4.Run 1st set of code. 
+5.Click on upload option(below 2nd set ) after running first set of code to upload text file.
+6.Upload your text file
+7.Then run last set of code to get desired output.
